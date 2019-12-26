@@ -1,4 +1,4 @@
 # Data-Focused-Python
-First Github document! Homework from my Data Focused Python courses.
+First Github document! 
 
-This line is to try the new branch and commit message. 
+Homework from my CMU 15-112: Fundamentals of Programming and Computer Science course.
